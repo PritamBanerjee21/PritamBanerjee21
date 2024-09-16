@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pb.banerjee342@gmail.com**
 
-- ⚡ Fun fact **To become a successful data scientist anyone needs to be a good data analyst at first place and deep down I want to become a good data scientist😉😜**
+- ⚡ Fun fact **To become a successful data scientist anyone needs to be a good data analyst at first place. Deep down I want to become a good data scientist😉😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
