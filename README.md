@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/data-science-5.gif)
 <h1 align="center">Hi 👋, I'm Pritam Banerjee</h1>
-<h3 align="center">A dedicated Data Science & Analytics student with a passion for Data Analyst role having knowledge of Python, SQL, Power BI and Machine Learning techniques.</h3>
+<h3 align="center">A dedicated Data Science & Analytics student with knowledge of Python, SQL, Power BI, Machine Learning techniques and with a passion for Data Analyst role.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritambanerjee21&label=Profile%20views&color=0e75b6&style=flat" alt="pritambanerjee21" /> </p>
 
