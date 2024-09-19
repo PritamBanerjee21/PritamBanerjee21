@@ -12,7 +12,7 @@
 
 - 👨‍💻 Check my portfolio at [pritambanerjee21.github.io](pritambanerjee21.github.io)
 
-- 💬 Ask me about **SQL, Power BI, Machine Learning techniques**
+- 💬 Ask me about **SQL, Power BI, Machine Learning techniques, NLP**
 
 - 📫 How to reach me **pb.banerjee342@gmail.com**
 
