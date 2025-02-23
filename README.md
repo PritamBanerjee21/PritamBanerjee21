@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritambanerjee21&label=Profile%20views&color=0e75b6&style=flat" alt="pritambanerjee21" /> </p>
 
-- 🔭 I’m currently working on **Financial Project using Power BI**
+- 🔭 I’m currently working on **Software Asset Management Project**
 
 - 🌱 I’m currently learning **Transformers in Deep Learning**
 
