@@ -1,22 +1,22 @@
 ![MasterHead](https://indoanalytica.com/static/images/data-science-5.gif)
 <h1 align="center">Hi 👋, I'm Pritam Banerjee</h1>
-<h3 align="center">A dedicated Data Science & Analytics student with knowledge of Python, SQL, Power BI, Machine Learning techniques and with a passion for Data Analyst role.</h3>
+<h3 align="center">Assistant Professor in AI & Data Science exploring Machine Learning and NLP to build intelligent, data-driven solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritambanerjee21&label=Profile%20views&color=0e75b6&style=flat" alt="pritambanerjee21" /> </p>
 
-- 🔭 I’m currently working on **Software Asset Management Project**
+- 🔭 I’m currently working as an **Assistant Professor of Data Science & Artificial Intelligence**
 
-- 🌱 I’m currently learning **Transformers in Deep Learning**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **any data analysis and NLP projects**
+- 👯 I’m looking to collaborate on **any data analysis, Gen AI and NLP projects**
 
 - 👨‍💻 Check my portfolio at [pritambanerjee21.github.io](pritambanerjee21.github.io)
 
-- 💬 Ask me about **SQL, Power BI, Machine Learning techniques, NLP**
+- 💬 Ask me about **Python, SQL, Power BI, ML & DL techniques, NLP, Gen AI**
 
 - 📫 How to reach me **pb.banerjee342@gmail.com**
 
-- ⚡ Fun fact **To become a successful data scientist anyone needs to be a good data analyst at first place. Deep down I want to become a good data scientist😉😜**
+- ⚡ Fun fact: AI professor by profession, data analyst mindset by default. 😜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
