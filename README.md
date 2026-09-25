@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any data analysis, Gen AI and NLP projects**
 
-- 👨‍💻 Check my portfolio at [pritambanerjee21.github.io](pritambanerjee21.github.io)
+- 👨‍💻 Check my portfolio at [pritambanerjee21.github.io]([pritambanerjee21.github.io](https://pritambanerjee21.github.io/Pritam-Portfolio/))
 
 - 💬 Ask me about **Python, SQL, Power BI, ML & DL techniques, NLP, Gen AI**
 
